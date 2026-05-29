@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - 108 - Salasar Balaji</title>
+    <style>
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            padding: 40px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #FF9933; /* Kesariya Accent */
+            border-bottom: 1px solid #333333;
+            padding-bottom: 10px;
+            font-size: 2.5rem;
+        }
+        h2 {
+            color: #FF9933;
+            margin-top: 30px;
+            font-size: 1.5rem;
+        }
+        p, ul {
+            color: #cccccc;
+            font-size: 1.1rem;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        .footer {
+            margin-top: 50px;
+            border-top: 1px solid #333333;
+            padding-top: 20px;
+            font-size: 0.9rem;
+            color: #666666;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p><strong>Effective Date: May 29, 2026</strong></p>
+    <p>This Privacy Policy governs the data collection practices of the mobile application <strong>108 - Salasar Balaji</strong> ("the Application"). The Application is managed and distributed as a tool for personal habit formation, focus, and spiritual reflection.</p>
+
+    <h2>1. Information Collection and Use</h2>
+    <p>The Application utilizes cloud-connected optimization capabilities via Google Firebase infrastructure to analyze application performance, stability, and user engagement metrics.</p>
+    <p>We declare the collection of the following data types:</p>
+    <ul>
+        <li><strong>Personal Information (User IDs):</strong> The Application leverages the Firebase SDK to assign a unique, randomized installation identifier to securely log user session analytics without identifying individual identities.</li>
+        <li><strong>App Activity (App Interactions):</strong> We trace behavioral milestones within the workspace interface (such as tracking completed daily ritual streams, voice prompt configurations, and button selections) to balance and optimize feature delivery.</li>
+        <li><strong>App Info and Performance (Diagnostics & Crash Logs):</strong> Through Firebase Crashlytics, device telemetry and sensor failure crash snapshots are gathered automatically to isolate hardware compatibility variance.</li>
+        <li><strong>Device or Other IDs:</strong> Standard operating system routing metadata is cross-referenced strictly for cloud synchronization performance management.</li>
+    </ul>
+
+    <h2>2. Data Encryption and Security</h2>
+    <p>All data processed or transmitted off the user's physical hardware is fully encrypted in transit using secure HTTPS and Transport Layer Security (TLS) layer protocols managed natively by Google Firebase server endpoints.</p>
+
+    <h2>3. Data Deletion and Retention</h2>
+    <p>The randomized behavioral telemetry records are maintained to calibrate baseline analytical indicators. Users possess an explicit right to request deletion of their collected event histories. To initiate a data wipe request, please submit a communication to our support channel specified below.</p>
+
+    <h2>4. Children's Privacy</h2>
+    <p>The Application does not directly target or collect identifiable information from users under the age of 13. All data collection routines operate under anonymous parameter keys.</p>
+
+    <h2>5. Contact Information</h2>
+    <p>For questions or comments regarding this legal documentation, please contact our support desk:</p>
+    <p><strong>Email:</strong> support@yourbusinessdomain.com</p>
+
+    <div class="footer">
+        &copy; 2026 108 - Salasar Balaji. All rights reserved.
+    </div>
+
+</body>
+</html>
